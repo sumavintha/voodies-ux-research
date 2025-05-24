@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="voodiesus-logo.png" alt="Voodies Logo" width="200"/>
+  <img src="voodiesus_logo.png" alt="Voodies Logo" width="200"/>
 </p>
 
 
