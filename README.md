@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Background
+## Background
 
 **Voodies** is a mobile-first platform designed to help users discover local restaurants through short-form food videos. Think TikTok meets Yelp.
 
@@ -15,7 +15,7 @@ Our team was preparing for a public launch, and I joined during the multi-phase 
 
 ---
 
-## 🎯 The Challenge
+## The Challenge
 
 We needed to:
 - Validate core features (Discovery, Profile, Upload)
@@ -25,27 +25,27 @@ We needed to:
 
 ---
 
-## 💼 My Role
+##  My Role
 
-As a UX Research Intern, I:
+As a UX Researcher, I:
 - Conducted 8 moderated usability interviews
 - Designed survey and testing scripts for 3 beta waves (25 → 30 → 50 testers)
 - Synthesized data into user personas and prioritized feature requests
-- Shared findings with product, design, and development
-
+- Shared findings with Product, Design, and Eng during weekly XFN presentations
+  
 ---
 
-## 🔍 Research Process
+##  Research Process
 
 ### Methods
-- 🧪 **Usability Testing:** Think-aloud tasks on the Discovery and Profile flows
-- 💬 **User Interviews:** Conducted over Zoom with beta testers
-- 📋 **Weekly Surveys:** Measured evolving sentiment and pain points
-- 🧠 **Persona Building:** Based on real user behaviors and needs
+-  **Usability Testing:** Think-aloud tasks on the Discovery and Profile flows
+-  **User Interviews:** Conducted over Zoom with beta testers
+-  **Weekly Surveys:** Measured evolving sentiment and pain points
+-  **Persona Building:** Based on real user behaviors and needs from interviews and surveys
 
 ---
 
-## 👥 Who We Designed For
+## Who We Designed For
 
 Through our research, we developed 6 distinct user personas:
 
@@ -60,34 +60,32 @@ Through our research, we developed 6 distinct user personas:
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 | Area | Insight |
 |------|--------|
-| 🔎 **Discovery** | Users preferred a map-first UI and strong filters (cuisine, trending) |
-| 👤 **Profile** | Users wanted editable bios, links, and profile pics |
-| 📹 **Content Creation** | Creators needed in-app video tools and tagging |
-| 🧭 **Navigation** | Familiarity with TikTok UX increased ease and trust |
-| 🐞 **Technical** | Scrolling lag, location mismatches, and video bugs hurt usability |
+|  **Discovery** | Users preferred a map-first UI and strong filters (cuisine, trending) |
+|  **Profile** | Users wanted editable bios, links, and profile pics |
+|  **Content Creation** | Creators needed in-app video tools and tagging |
+|  **Navigation** | Familiarity with TikTok UX increased ease and trust |
+|  **Technical** | Scrolling lag, location mismatches, and video bugs hurt usability |
 
 > “I just want to click a restaurant name and get *everything* in one place.”
 
 ---
 
-## ✨ Outcomes & Impact
+## Outcomes & Impact
 
-We directly influenced several product updates:
+The UX Research team directly influenced several product updates:
 
 - ✅ Map-based discovery feature added
 - ✅ Profile customization expanded
 - ✅ Bookmarking, reply, and save flows improved
 - ✅ Lag and bug fixes prioritized in dev backlog
 
-> Still in progress: in-app video recording, editable video covers, Connect feature
-
 ---
 
-## 🧠 Reflection
+## Reflection
 
 This project gave me hands-on experience running mixed-methods research in an iterative, agile environment. I learned to:
 - Balance stakeholder goals with user needs
@@ -98,10 +96,10 @@ This project gave me hands-on experience running mixed-methods research in an it
 
 ## 📂 Supporting Materials (Internal)
 
-Due to confidentiality, full research materials (interview scripts, survey forms, personas, synthesis reports) are not public. Available upon request.
+Due to confidentiality, full research materials (interview scripts, survey forms, personas, synthesis reports) are not public. Available upon request!
 
 ---
-
-📫 **Contact**  
+ 
+**Contact**  
 vinthasuma@gmail.com  
 
