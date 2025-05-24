@@ -70,7 +70,7 @@ Through our research, we developed 6 distinct user personas:
 |  **Navigation** | Familiarity with TikTok UX increased ease and trust |
 |  **Technical** | Scrolling lag, location mismatches, and video bugs hurt usability |
 
-> “I just want to click a restaurant name and get *everything* in one place.”
+> "If you tap on a restaurant’s name, it should show everything — menu, photos, reviews. I don’t want to go hunting for it" - Wave 1 Beta Tester
 
 ---
 
